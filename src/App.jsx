@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-  <p className='faska'>ffc</p>
+  <p >ffc</p>
     </>
   )
 }
