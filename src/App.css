@@ -17,6 +17,13 @@
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
+.faska{
+  color: red;
+  font-size: 50px;
+  font-weight: bold;
+  background-color: turquoise;
+}
+
 
 
 @keyframes logo-spin {
